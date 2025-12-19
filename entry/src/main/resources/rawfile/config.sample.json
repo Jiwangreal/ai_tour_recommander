@@ -1,0 +1,11 @@
+{
+  "amapKey": "your_amap_key_here",
+  "amapBaseUrl": "https://restapi.amap.com/v3",
+  "llmApiKey": "your_llm_api_key_here",
+  "llmBaseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "llmModel": "qwen-plus",
+  "llmSystemPrompt": "你是一个本地生活与旅行路线推荐助手，请结合给定的POI列表给出简洁、可执行的吃喝玩乐方案，并给出推荐理由与行程顺序。",
+  "defaultCity": "北京",
+  "networkTimeout": 12000,
+  "mockMode": false
+}
