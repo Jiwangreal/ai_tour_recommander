@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.example.ai_tour_recommander",
+    "bundleName": "ai_tour.v1.0.huawei",
     "vendor": "example",
     "versionCode": 1000000,
     "versionName": "1.0.0",

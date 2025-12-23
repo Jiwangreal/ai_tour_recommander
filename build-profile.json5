@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "D:/tmp/gaode_map/ai_tour_recommander/ai_tour_release.cer",
+          "keyAlias": "ai_tour",
+          "keyPassword": "0000001B20B995598DBAF8B650F9A236AD513464F40ED9A63745345F8B22664FA5671AFD0DE769BA61FF45",
+          "profile": "D:/tmp/gaode_map/ai_tour_recommander/ai_tour_profile_releaseRelease.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "D:/tmp/gaode_map/ai_tour_recommander/ai_tour.p12",
+          "storePassword": "0000001B5020A52057CA1945175CA7D35DFCE04FBA57E61BAC93B13F220CC8537BA561E4181700517B9E1A"
+        }
+      }
+    ],
     "products": [
       {
         "name": "default",
